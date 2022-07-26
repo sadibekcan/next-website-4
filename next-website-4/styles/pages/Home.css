@@ -1,0 +1,21 @@
+.container {
+    height: 100px;
+    padding: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    z-index: 999;
+}
+
+.texts {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.text-1 {
+    left: 10px;
+    margin-right: 10px;
+}
